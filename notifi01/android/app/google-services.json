@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "708177429368",
+    "project_id": "notapp-57feb",
+    "storage_bucket": "notapp-57feb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708177429368:android:cd6e6fd67bedd02574fe8d",
+        "android_client_info": {
+          "package_name": "com.notifi01"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrLT2KDxjSuCVXo7Z0OrCBHrC-cboLFCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
